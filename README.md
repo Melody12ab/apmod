@@ -1,5 +1,9 @@
 # apmod
-copy my old project  from code.google.com/p/apmod
+author from code.google.com/p/apmod     
+
+[中文参考][1]
+
+
 
 ## mod_concatx
 mod_concatx: the ability to join multiple files together in a single request.
@@ -60,3 +64,5 @@ so modify apache config "conf/httpd.conf", and add:
 ```plain
 LoadModule deflate_module modules/mod_deflate.so
 ```
+
+[1]: http://blog.csdn.net/mycwq/article/details/9361117
